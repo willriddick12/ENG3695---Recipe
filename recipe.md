@@ -51,6 +51,7 @@ Sodium: 93mg<br>
 <h3>  Notes: </h3> 
 
 <a href="https://www.foodnetwork.com/recipes/food-network-kitchen/simple-chocolate-chip-cookies-3362917">Original Site<a/>
+[Ingredient Substitution Guide](https://www.foodnetwork.com/recipes/ingredient-substitution-guide)
 
 
 ***
