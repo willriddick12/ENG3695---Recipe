@@ -2,8 +2,10 @@
 ***
 These classic cookies are a go-to sweet treat that are easy to whip up and store well-if they last! We use two kinds of sugar: granulated for crunch and brown for chewiness.
 
+
 ### Ingredients:
-***
+
+
 
 
 ### Directions:
@@ -23,3 +25,22 @@ Scoop 12 heaping tablespoons of dough about 2 inches apart onto each prepared ba
 
 5. 
 Let the baking sheets cool completely, scoop the remaining dough onto 1 sheet and bake. Store the cookies in a tightly sealed container at room temperature for up to 5 days.
+
+### Nutritional Info:
+
+Serving Size: 1
+Calories: 173
+Total Fat: 8g
+Saturated Fat: 5g
+Carbohudrrates: 24g
+Dietary Fiber: 1g
+Sugar: 16g
+Protein: 2g
+Cholesterol: 25mg
+Sodium: 93mg
+
+### Notes and FAQ:
+
+
+### Notes and FAQ:
+
