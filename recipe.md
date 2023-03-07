@@ -6,6 +6,8 @@ These classic cookies are a go-to sweet treat that are easy to whip up and store
 <strong> Cooking Time: </strong> 30 min plus 15 min cooking time  <br> 
 <strong> Yield: </strong> about 30 cookies<br>
 
+<img src="[URL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.verybestbaking.com%2Ftoll-house%2Frecipes%2Foriginal-nestle-toll-house-chocolate-chip-cookies%2F&psig=AOvVaw3GpxgEFd3MUPWljmfMBMLF&ust=1678242279091000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCSlevhyP0CFQAAAAAdAAAAABAD)" align="left">
+
 ***
 <h3> Ingredients: </h3> 
 
