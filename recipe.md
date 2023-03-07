@@ -43,11 +43,19 @@ Protein: 2g<br>
 Cholesterol: 25mg<br>
 Sodium: 93mg<br>
 
-<h3>  Notes and FAQ: </h3> 
+<h3>  Notes: </h3> 
 
 <a href="https://www.foodnetwork.com/recipes/food-network-kitchen/simple-chocolate-chip-cookies-3362917">Original Site<a/>
 
 
+<h3>  Comments: </h3> 
+  
+<strong> Anonymous: </strong> Very good totally recommend it fast and simple though I refrigerated the dough for 45 min before baking. My track team loved it!
+  
+<strong> Anonymous: </strong> This is so yummy, try replacing the cookie with ice cream and it's perfection! xoxo-Charlie Bieber
+ 
+<strong> Anonymous: </strong>This recipe was five stars because these cookies were the best thing I have ever cooked!!!
+  
 *****
 <div align="center">
   <a href="https://www.foodnetwork.com/topics/chocolate-cookie"> Cookie </a>
