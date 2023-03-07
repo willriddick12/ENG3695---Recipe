@@ -1,15 +1,13 @@
 ## Simple Chocolate Chip Cookies
-
 ***
+These classic cookies are a go-to sweet treat that are easy to whip up and store well-if they last! We use two kinds of sugar: granulated for crunch and brown for chewiness.
 
 ### Ingredients:
-
 ***
 
 
 ### Directions:
 
-***
 
 1.
 Position 2 racks in the center of the oven, and preheat to 375 degrees F. Line 2 baking sheets with parchment.
