@@ -3,8 +3,7 @@
 These classic cookies are a go-to sweet treat that are easy to whip up and store well-if they last! We use two kinds of sugar: granulated for crunch and brown for chewiness.
 
 <strong> Level: </strong> Easy<br>
-<strong> Total: </strong> 45 min (plus cooling time)<br> 
-<strong> Active: </strong> 30 min<br>
+<strong> Cooking Time: </strong> 30 min plus 15 min cooking time  <br> 
 <strong> Yield: </strong> about 30 cookies<br>
 
 <h3> Ingredients: </h3> 
@@ -43,9 +42,6 @@ Sugar: 16g<br>
 Protein: 2g<br>
 Cholesterol: 25mg<br>
 Sodium: 93mg<br>
-
-<h3>  Notes and FAQ: </h3> 
-
 
 <h3>  Notes and FAQ: </h3> 
 
