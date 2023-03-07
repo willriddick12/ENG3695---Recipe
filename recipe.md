@@ -28,16 +28,16 @@ These classic cookies are a go-to sweet treat that are easy to whip up and store
 
 <h4>  Nutritional Info: </h4> 
 
-Serving Size: 1
-Calories: 173
-Total Fat: 8g
-Saturated Fat: 5g
-Carbohudrrates: 24g
-Dietary Fiber: 1g
-Sugar: 16g
-Protein: 2g
-Cholesterol: 25mg
-Sodium: 93mg
+Serving Size: 1\n
+Calories: 173\n
+Total Fat: 8g\n
+Saturated Fat: 5g\n
+Carbohudrrates: 24g\n
+Dietary Fiber: 1g\n
+Sugar: 16g\n
+Protein: 2g\n
+Cholesterol: 25mg\n
+Sodium: 93mg\n
 
 <h4>  Notes and FAQ: </h4> 
 
