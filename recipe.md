@@ -32,7 +32,7 @@ These classic cookies are a go-to sweet treat that are easy to whip up and store
 
 <h3>  Nutritional Info: </h3> 
 
-Serving Size: 1<br>
+Serving Size: 1 cookie<br>
 Calories: 173<br>
 Total Fat: 8g<br>
 Saturated Fat: 5g<br>
@@ -48,3 +48,6 @@ Sodium: 93mg<br>
 
 <h3> Additional Features </h3> 
 
+<a href="https://www.foodnetwork.com/topics/chocolate-cookie"> Cookie <a>
+<a href="https://www.foodnetwork.com/recipes/photos/easy-dessert-recipes"> Dessert <a>
+<a href="https://www.foodnetwork.com/topics/baking"> Baking <a>
