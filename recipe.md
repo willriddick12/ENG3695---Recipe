@@ -6,7 +6,7 @@ These classic cookies are a go-to sweet treat that are easy to whip up and store
 <strong> Cooking Time: </strong> 30 min plus 15 min cooking time  <br> 
 <strong> Yield: </strong> about 30 cookies<br>
 
-![alt text](cookie.jpeg)
+![alt text](https://github.com/willriddick12/ENG3695---Recipe/blob/main/cookie.jpg)
 
 ***
 <h3> Ingredients: </h3> 
