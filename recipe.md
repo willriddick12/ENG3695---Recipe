@@ -1,4 +1,4 @@
-<h1> Simple Chocolate Chip Cookies </h1>
+Simple Chocolate Chip Cookies
 ***
 These classic cookies are a go-to sweet treat that are easy to whip up and store well-if they last! We use two kinds of sugar: granulated for crunch and brown for chewiness.
 
