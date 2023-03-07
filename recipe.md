@@ -16,7 +16,7 @@ These classic cookies are a go-to sweet treat that are easy to whip up and store
 
 <h4>  Directions: </h4> 
 
-1. Position 2 racks in the center of the oven, and preheat to 375 degrees F. Line 2 baking sheets with parchment.
+<em> 1. </em> Position 2 racks in the center of the oven, and preheat to 375 degrees F. Line 2 baking sheets with parchment.
 
 2. Whisk together the flour, baking soda and 1 teaspoon salt in a large bowl.
 
