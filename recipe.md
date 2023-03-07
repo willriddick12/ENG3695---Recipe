@@ -47,7 +47,8 @@ Sodium: 93mg<br>
 <a href="https://www.foodnetwork.com/recipes/food-network-kitchen/simple-chocolate-chip-cookies-3362917">Original Site<a/>
 
 <h3> Additional Features </h3> 
-
-<a href="https://www.foodnetwork.com/topics/chocolate-cookie"> Cookie <a>
-<a href="https://www.foodnetwork.com/recipes/photos/easy-dessert-recipes"> Dessert <a>
-<a href="https://www.foodnetwork.com/topics/baking"> `Baking` <a>
+<div align="center">
+  <a href="https://www.foodnetwork.com/topics/chocolate-cookie"> `Cookie` <a><t
+  <a href="https://www.foodnetwork.com/recipes/photos/easy-dessert-recipes"> `Dessert` <a>
+  <a href="https://www.foodnetwork.com/topics/baking"> `Baking` <a>
+<div>
