@@ -6,6 +6,7 @@ These classic cookies are a go-to sweet treat that are easy to whip up and store
 <strong> Cooking Time: </strong> 30 min plus 15 min cooking time  <br> 
 <strong> Yield: </strong> about 30 cookies<br>
 
+***
 <h3> Ingredients: </h3> 
 
 + 2 1/4 cups all-purpose flour
@@ -18,6 +19,7 @@ These classic cookies are a go-to sweet treat that are easy to whip up and store
 + 1 teaspoon pure vanilla extract
 + One 12-ounce bag semisweet chocolate chips
 
+***
 <h3>  Directions: </h3> 
 
 <strong> 1. </strong> Position 2 racks in the center of the oven, and preheat to 375 degrees F. Line 2 baking sheets with parchment.
@@ -30,6 +32,7 @@ These classic cookies are a go-to sweet treat that are easy to whip up and store
 
 <strong> 5. </strong> Let the baking sheets cool completely, scoop the remaining dough onto 1 sheet and bake. Store the cookies in a tightly sealed container at room temperature for up to 5 days.
 
+***
 <h3>  Nutritional Info: </h3> 
 
 Serving Size: 1 cookie<br>
@@ -43,11 +46,13 @@ Protein: 2g<br>
 Cholesterol: 25mg<br>
 Sodium: 93mg<br>
 
+***
 <h3>  Notes: </h3> 
 
 <a href="https://www.foodnetwork.com/recipes/food-network-kitchen/simple-chocolate-chip-cookies-3362917">Original Site<a/>
 
 
+***
 <h3>  Comments: </h3> 
   
 <strong> Anonymous: </strong> <em> Very good totally recommend it fast and simple though I refrigerated the dough for 45 min before baking. My track team loved it! </em> 
@@ -56,7 +61,7 @@ Sodium: 93mg<br>
  
 <strong> Anonymous: </strong> <em> This recipe was five stars because these cookies were the best thing I have ever cooked!!! </em>
   
-*****
+***
 <div align="center">
   <a href="https://www.foodnetwork.com/topics/chocolate-cookie"> Cookie </a>
   <a href="https://www.foodnetwork.com/recipes/photos/easy-dessert-recipes"> Dessert </a>
