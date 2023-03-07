@@ -48,9 +48,7 @@ Sodium: 93mg<br>
 
 <h3> Additional Features </h3> 
 <div align="center">
-  <a href="https://www.foodnetwork.com/topics/chocolate-cookie"> Cookie </a>
-  <h2>|</h2>
-  <a href="https://www.foodnetwork.com/recipes/photos/easy-dessert-recipes"> Dessert </a>
-  <h2>|</h2>
+  <a href="https://www.foodnetwork.com/topics/chocolate-cookie"> Cookie   </a>
+  <a href="https://www.foodnetwork.com/recipes/photos/easy-dessert-recipes"> Dessert   </a>
   <a href="https://www.foodnetwork.com/topics/baking"> Baking </a>
 <div>
