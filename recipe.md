@@ -50,11 +50,11 @@ Sodium: 93mg<br>
 
 <h3>  Comments: </h3> 
   
-<strong> Anonymous: </strong> Very good totally recommend it fast and simple though I refrigerated the dough for 45 min before baking. My track team loved it!
+<strong> Anonymous: </strong> <em> Very good totally recommend it fast and simple though I refrigerated the dough for 45 min before baking. My track team loved it! </em> 
   
-<strong> Anonymous: </strong> This is so yummy, try replacing the cookie with ice cream and it's perfection! xoxo-Charlie Bieber
+<strong> Anonymous: </strong> <em> This is so yummy, try replacing the cookie with ice cream and it's perfection! xoxo-Charlie Bieber </em>
  
-<strong> Anonymous: </strong>This recipe was five stars because these cookies were the best thing I have ever cooked!!!
+<strong> Anonymous: </strong> <em> This recipe was five stars because these cookies were the best thing I have ever cooked!!! </em>
   
 *****
 <div align="center">
