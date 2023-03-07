@@ -60,6 +60,9 @@ Sodium: 93mg<br>
 <strong> Anonymous: </strong> <em> This is so yummy, try replacing the cookie with ice cream and it's perfection! xoxo-Charlie Bieber </em>
  
 <strong> Anonymous: </strong> <em> This recipe was five stars because these cookies were the best thing I have ever cooked!!! </em>
+
+<strong> Anonymous: </strong> <em> These were amazing! They were chewy and soft at the same time,and i added blue food coloring to them because i like the Percy Jackson series and Heroes Of Olympus. Super good to share with friends as well!
+10 out of 10 ,would come back again. And trust me,i will. </em>
   
 ***
 <div align="center">
