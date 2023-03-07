@@ -1,10 +1,8 @@
 <h2> Simple Chocolate Chip Cookies </h2> 
 
-******
 These classic cookies are a go-to sweet treat that are easy to whip up and store well-if they last! We use two kinds of sugar: granulated for crunch and brown for chewiness.
 
-
-</h4> Ingredients: </h4> 
+<h4> Ingredients: </h4> 
 + 2 1/4 cups all-purpose flour
 + 1 teaspoon baking soda
 + Fine salt
