@@ -5,7 +5,16 @@ These classic cookies are a go-to sweet treat that are easy to whip up and store
 
 ### Ingredients:
 
-
+<table>
+  <tr>
+    <td>Test</td>
+    <td>Test</td>
+  <tr>
+  <tr>
+    <td>Test2</td>
+    <td>Test2</td>
+  <tr>
+</table>
 
 
 ### Directions:
