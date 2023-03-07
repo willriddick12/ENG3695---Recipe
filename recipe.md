@@ -1,4 +1,4 @@
-<h2> Simple Chocolate Chip Cookies </h2> 
+<h1> Simple Chocolate Chip Cookies </h1> 
 
 These classic cookies are a go-to sweet treat that are easy to whip up and store well-if they last! We use two kinds of sugar: granulated for crunch and brown for chewiness.
 
@@ -7,7 +7,7 @@ Total: 45 min (plus cooling time)
 Active: 30 min
 Yield: about 30 cookies
 
-<h4> Ingredients: </h4> 
+<h3> Ingredients: </h3> 
 
 + 2 1/4 cups all-purpose flour
 + 1 teaspoon baking soda
@@ -19,7 +19,7 @@ Yield: about 30 cookies
 + 1 teaspoon pure vanilla extract
 + One 12-ounce bag semisweet chocolate chips
 
-<h4>  Directions: </h4> 
+<h3>  Directions: </h3> 
 
 <strong> 1. </strong> Position 2 racks in the center of the oven, and preheat to 375 degrees F. Line 2 baking sheets with parchment.
 
@@ -31,7 +31,7 @@ Yield: about 30 cookies
 
 <strong> 5. </strong> Let the baking sheets cool completely, scoop the remaining dough onto 1 sheet and bake. Store the cookies in a tightly sealed container at room temperature for up to 5 days.
 
-<h4>  Nutritional Info: </h4> 
+<h3>  Nutritional Info: </h3> 
 
 Serving Size: 1<br>
 Calories: 173<br>
@@ -44,11 +44,11 @@ Protein: 2g<br>
 Cholesterol: 25mg<br>
 Sodium: 93mg<br>
 
-<h4>  Notes and FAQ: </h4> 
+<h3>  Notes and FAQ: </h3> 
 
 
-<h4>  Notes and FAQ: </h4> 
+<h3>  Notes and FAQ: </h3> 
 
 
-<h4> Additional Features </h4> 
+<h3> Additional Features </h3> 
 
