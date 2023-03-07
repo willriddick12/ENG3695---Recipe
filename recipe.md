@@ -44,7 +44,7 @@ Cholesterol: 25mg<br>
 Sodium: 93mg<br>
 
 <h3>  Notes and FAQ: </h3> 
-[Original Site]([https://www.google.com](https://www.foodnetwork.com/recipes/food-network-kitchen/simple-chocolate-chip-cookies-3362917))
+<a href="https://www.foodnetwork.com/recipes/food-network-kitchen/simple-chocolate-chip-cookies-3362917">Original Site<a/>
 
 <h3> Additional Features </h3> 
 
