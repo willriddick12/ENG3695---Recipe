@@ -2,10 +2,10 @@
 
 These classic cookies are a go-to sweet treat that are easy to whip up and store well-if they last! We use two kinds of sugar: granulated for crunch and brown for chewiness.
 
-Level: Easy
-Total: 45 min (plus cooling time)
-Active: 30 min
-Yield: about 30 cookies
+<strong> Level: </strong> Easy<br>
+<strong> Total: </strong> 45 min (plus cooling time)<br> 
+<strong> Active: </strong> 30 min<br>
+<strong> Yield: </strong> about 30 cookies<br>
 
 <h3> Ingredients: </h3> 
 
