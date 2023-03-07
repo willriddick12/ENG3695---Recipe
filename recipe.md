@@ -2,6 +2,11 @@
 
 These classic cookies are a go-to sweet treat that are easy to whip up and store well-if they last! We use two kinds of sugar: granulated for crunch and brown for chewiness.
 
+Level: Easy
+Total: 45 min (plus cooling time)
+Active: 30 min
+Yield: about 30 cookies
+
 <h4> Ingredients: </h4> 
 
 + 2 1/4 cups all-purpose flour
@@ -28,16 +33,16 @@ These classic cookies are a go-to sweet treat that are easy to whip up and store
 
 <h4>  Nutritional Info: </h4> 
 
-Serving Size: 1\n
-Calories: 173\n
-Total Fat: 8g\n
-Saturated Fat: 5g\n
-Carbohudrrates: 24g\n
-Dietary Fiber: 1g\n
-Sugar: 16g\n
-Protein: 2g\n
-Cholesterol: 25mg\n
-Sodium: 93mg\n
+Serving Size: 1<br>
+Calories: 173<br>
+Total Fat: 8g<br>
+Saturated Fat: 5g<br>
+Carbohudrrates: 24g<br>
+Dietary Fiber: 1g<br>
+Sugar: 16g<br>
+Protein: 2g<br>
+Cholesterol: 25mg<br>
+Sodium: 93mg<br>
 
 <h4>  Notes and FAQ: </h4> 
 
